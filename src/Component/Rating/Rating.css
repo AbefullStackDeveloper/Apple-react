@@ -1,0 +1,14 @@
+.postive {
+    background-color: blue;
+    color: white;
+
+}
+.negative {
+background-color: tomato;
+color: white;
+margin-left: 5px;
+}
+.rating-wrapper {
+    background-color: gray;
+    text-align: center;
+}
